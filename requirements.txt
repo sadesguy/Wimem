@@ -1,0 +1,4 @@
+chardet
+pytest-flake8
+scapy
+argparse~=1.4.0
