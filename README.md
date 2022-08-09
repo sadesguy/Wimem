@@ -13,3 +13,5 @@ WIFITE: ```apt update && apt install wifite```
  ( download requirements.txt and run ```pip3 install -r requirements.txt```)
 
 Enjoy? :)
+
+if WIFITE won't work out of the box (you are probably running it from raspberryPi, aren't you?) do ```sudo cp /usr/lib/python3/dist-packages/scapy/ /usr/lib/python2.7/dist-packages/```
